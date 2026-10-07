@@ -9,7 +9,7 @@ class UIUpdatesDemo extends StatelessWidget {
   Widget build(BuildContext context) {
     print('UIUpdatesDemo BUILD called');
     return const Padding(
-      padding: const EdgeInsets.all(8.0),
+      padding:  EdgeInsets.all(8.0),
       child: Center(
         child: Column(
           mainAxisSize: MainAxisSize.min,
